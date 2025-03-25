@@ -203,7 +203,7 @@ python app.py
 - Spring Boot에서 REST 호출로 식단 추천 결과를 받아옴
   
 ---
-## 기능 확인
+## 기능 확인 및 시연 영상
 | 나의 루틴 기록  |  식단 추천   |
 | :-------------------------------------------: | :------------: |
 |  <img width="329" src="https://github.com/user-attachments/assets/47239aca-9a70-4d21-b1ca-535557ad0fad"/> |  <img width="329" src="https://github.com/user-attachments/assets/c84802e9-cb68-4aae-91b1-5f2a5d86e64d"/>|  
@@ -211,6 +211,8 @@ python app.py
 | <img width="329" src="https://github.com/user-attachments/assets/8db6d88a-5712-48c6-8d3e-f069d0e2f1a4"/>   |  <img width="329" src="https://github.com/user-attachments/assets/55ce53cc-58e7-49ba-ad60-e410904959ea"/>     |
 | 메세지   |  채팅   |  
 | <img width="329" src="https://github.com/user-attachments/assets/f95d022e-9b7c-4034-82c4-d102860e359c"/>   |  <img width="329" src="https://github.com/user-attachments/assets/f805f101-5748-42c9-bc53-a5b1d8c3f4c4"/>     |
+
+- [시연 영상](https://www.canva.com/design/DAGiuT3JbTE/NVGUTW_l0UgmglSGR7b_Wg/view?utm_content=DAGiuT3JbTE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h73bf782bc9) 
 
 ---
 ## 참고자료

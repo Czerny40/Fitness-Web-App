@@ -22,7 +22,7 @@
 - 백엔드 (Main):
 
   - Java : JDK 21
-  - 
+    
   - Spring Boot 3.2.8 (Gradle 빌드 관리)
   
   - Spring Data JPA (DB: MySQL)

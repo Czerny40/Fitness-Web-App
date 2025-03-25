@@ -5,11 +5,8 @@
 ![image](https://github.com/user-attachments/assets/4cf74131-7934-468a-8579-503a444b8f44)
 
 
-</div>
-
-# FitConncet
 > **운동 파트너 매칭, 맞춤형 식단 추천, 실시간 채팅 등 종합 헬스 케어 웹 서비스** <br/> **개발기간: 2024.09 ~ 2024.10**
-
+</div>
 
 ## 개발팀 소개
 

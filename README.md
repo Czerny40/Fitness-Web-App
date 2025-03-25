@@ -21,9 +21,9 @@
 ## 기술 스택
 - 백엔드 (Main):
 
-  - Spring Boot (Java 21+ 호환)
-  
-  - Gradle 빌드 관리
+  - Java : JDK 21
+  - 
+  - Spring Boot 3.2.8 (Gradle 빌드 관리)
   
   - Spring Data JPA (DB: MySQL)
   

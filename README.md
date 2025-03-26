@@ -180,8 +180,8 @@ $ cd Fitness-Web-App
 #### Spring Boot (메인 서버) 실행 (Gradle)
 ```
 # Gradle 초기 설정
-./gradlew clean build     # 프로젝트 빌드
-./gradlew bootRun         # Spring Boot 서버 실행
+./gradlew clean build    
+./gradlew bootRun        
 ```
 - http://localhost:8080에서 메인 서버 확인 가능
 #### FastAPI 서버 (운동 파트너 매칭)
